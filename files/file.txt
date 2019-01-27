@@ -1,3 +1,4 @@
 useless information
 
+branch master
 test new branch
